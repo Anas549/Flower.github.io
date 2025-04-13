@@ -63,10 +63,10 @@
   </div>
 
   <footer>
-    <p>เขียนโดย คุณเสนาวัตร เบญบาเฮ็ม</p>
+    <p>เขียนโดย คุณอานัส มะลี</p>
     <div class="donate">
       หากคุณชอบงานเขียนนี้ สนับสนุนผู้เขียนได้ที่:<br>
-      PromptPay: 08xxxxxxxx
+      PromptPay: 0992130792
     </div>
   </footer>
 </body>
